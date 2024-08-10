@@ -1,0 +1,96 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-logo {
+  align-items: center;
+  gap: 30px;
+}
+
+header img {
+  width: 100px;
+}
+
+header i {
+  font-size: 35px;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+}
+
+#divBusca {
+  display: flex;
+  margin: 0px;
+  align-items: center;
+}
+
+button i {
+  font-size: 30px;
+}
+
+.menu-logo {
+  display: flex;
+}
+.icons {
+  display: flex;
+  gap: 25px;
+}
+
+main {
+  display: flex;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  align-items: center;
+}
+nav i {
+  font-size: 1.7rem;
+  margin: 1rem;
+  align-items: center;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f5f5f5;
+  margin: 10px 0px 0px 80px;
+}
+.bloco {
+  margin: 40px 0px 0px 40px;
+}
+.bloco img {
+  width: 250px;
+}
+
+.descricao {
+  display: flex;
+  align-items: center;
+}
+.descricao h1 {
+  font-size: 17px;
+  width: 200px;
+  flex-wrap: wrap;
+}
+
+.descricao i {
+  font-size: 50px;
+}
+
+.inscricacao {
+  margin-left: 50px;
+}
+h3 {
+  display: block;
+  font-size: 11px;
+  color: #838383;
+  margin: 0px;
+}
